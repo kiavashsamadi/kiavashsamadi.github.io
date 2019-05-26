@@ -16,4 +16,7 @@ email: kiavash@alumni.ubc.ca
 google_analytics:
   id: UA-140777530-1
 
+plugins:
+  - jekyll-seo-tag
+
 exclude: ['package.json', 'src' , 'node_modules']
