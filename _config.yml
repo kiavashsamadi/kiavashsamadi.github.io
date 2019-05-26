@@ -18,5 +18,6 @@ google_analytics:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude: ['package.json', 'src' , 'node_modules']
