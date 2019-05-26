@@ -12,4 +12,8 @@ email: kiavash@alumni.ubc.ca
 # twitter_username:
 # github_username:
 
+# Google-analytics
+google_analytics:
+  id: UA-140777530-1
+
 exclude: ['package.json', 'src' , 'node_modules']
