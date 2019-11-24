@@ -5,3 +5,4 @@ node_modules
 package-lock.json
 .jekyll-metadata
 Gemfile.lock
+.jekyll-cache
